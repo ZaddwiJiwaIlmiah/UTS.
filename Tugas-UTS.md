@@ -33,3 +33,26 @@
 
    c. Kode dari flowgorithm di tulis kembali pada VSC dengan tipe file .py
      ![IMG-20211029-WA0021](https://user-images.githubusercontent.com/93030333/139361742-a4509fe1-f7d5-4b40-925c-9fbf73a5a0d2.jpg)
+
+4. Membuat algoritma dari suhu Celcius ke Reamur 
+   a. Seperti sebelumnya kita harus menulis algoritma pada flowgorithm
+     ![IMG-20211029-WA0009](https://user-images.githubusercontent.com/93030333/139362446-298df36c-39eb-4c8d-8340-8998199f83c7.jpg)
+
+   b. Kemudian coba jalan kan.
+     ![IMG-20211029-WA0013](https://user-images.githubusercontent.com/93030333/139362471-b7cf4a0f-87e6-4895-8b68-5c93dd7f5c39.jpg)
+
+   c. Dan algoritma yang di flowgorithm kemudian ditulis kembali pada VSC dengan tipe file.py
+     ![IMG-20211029-WA0016](https://user-images.githubusercontent.com/93030333/139362502-fc7bee48-8aca-48c8-a754-d35d2db84658.jpg)
+
+5. Yang terakhir dari suhu Celcius ke Fahrenheit
+   a. Membuat algoritma pada flowgorithm
+     ![IMG-20211029-WA0008](https://user-images.githubusercontent.com/93030333/139362595-15433014-598d-4c55-98ed-a3be66e0ebed.jpg)
+
+   b. Kemudian coba untuk jalan kan.
+     ![IMG-20211029-WA0012](https://user-images.githubusercontent.com/93030333/139362623-40ec0fa7-5b5d-419b-848c-5d8e2af81daa.jpg)
+
+   c. Terakhir kode dari flowgorithm di tulis kembali ke VSC dengan tipe file.py
+     ![IMG-20211029-WA0015](https://user-images.githubusercontent.com/93030333/139362652-f19237b9-2c3e-4794-9c79-8d7e73ff06e6.jpg)
+
+
+Pada algoritma di atas saya menambahkan output "masukan" dari masing masing suhu agar lebih mudah untuk dipahami.
